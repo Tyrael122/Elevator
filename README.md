@@ -4,4 +4,4 @@ It has buttons to select the floor you want to go. When it arrives in a specifie
 
 You can also press multiple floors, and it will follow a pre-designed order: it'll go from top to bottom.
 
-I uploaded all files from the Visual Studio Folder.
+I uploaded all files from the Visual Studio Folder. The main logic is in "Forms1.cs". You may as well just download all the files and it should work just fine.
